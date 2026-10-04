@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 # Public URL of the backend Hugging Face Space (replace with your own Space URL)
-BACKEND_URL = "https://miniature-carnival-wv5q4p56j9gxf59g9-7860.app.github.dev/"
+BACKEND_URL = "https://miniature-carnival-wv5q4p56j9gxf59g9-7860.app.github.dev"
 
 # Same reference year and mappings used during feature engineering in training
 REFERENCE_YEAR = 2025
